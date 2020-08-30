@@ -17,7 +17,7 @@ Welcome to Online classes of Downstream Processing of Bioengineering!
 .. toctree::
    :maxdepth: 2
    :numbered:
-   :caption: Contents:
+   :caption: Course Content
    
    Lessions/Chapter 1/Chapter 1
    Lessions/Book
@@ -28,19 +28,26 @@ Introduction of Teachers
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :numbered:
+   
    
    Teachers/Xia.rst
    Teachers/Li.rst
 
 
+Help Corner
+=========================================================
 
-
+.. toctree::
+   :maxdepth: 2
+   :numbered:
+   
+   Help/2017
 
 
 
 Indices and tables
-==================
+===========================
 
 * :ref:`genindex`
 * :ref:`modindex`
