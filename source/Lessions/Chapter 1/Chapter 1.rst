@@ -31,7 +31,11 @@ Basic requirements of this chapter
 
 Teaching video 
 ---------------------------------------------
-
+.. toctree::
+   :maxdepth: 2
+   
+   Class1.rst
+   Class2.rst
 
 
 Extracurricular extended learning
