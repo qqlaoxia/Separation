@@ -20,6 +20,14 @@ Welcome to Online classes of Downstream Processing of Bioengineering!
    :caption: Course Content
    
    Lessions/Chapter 1/Chapter 1
+   Lessions/Chapter 2/Chapter 2
+   Lessions/Chapter 3/Chapter 3
+   Lessions/Chapter 4/Chapter 4
+   Lessions/Chapter 5/Chapter 5
+   Lessions/Chapter 6/Chapter 6
+   Lessions/Chapter 7/Chapter 7
+   Lessions/Chapter 8/Chapter 8
+
    Lessions/Book
 
 
