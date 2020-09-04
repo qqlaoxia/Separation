@@ -10,9 +10,11 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
-# import os
-# import sys
-# sys.path.insert(0, os.path.abspath('.'))
+import os
+import sys
+sys.path.insert(0, os.path.abspath('.'))
+
+os.system("
 
 
 # -- Project information -----------------------------------------------------
@@ -89,7 +91,8 @@ html_static_path = ['_static']
 #
 # html_sidebars = {}
 #---sphinx-themes-----
-html_theme = 'oe_sphinx'
 import oe_sphinx_theme
+html_theme = 'oe_sphinx'
 html_theme_path = [oe_sphinx_theme.get_theme_dir()]
+
 html_search_language = 'zh'
