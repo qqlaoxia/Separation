@@ -29,89 +29,40 @@ Basic requirements of this chapter
 2. Characteristics of biological separation process and classification of biological separation process; 
 3. Master the common characteristics of biological separation materials and general separation process
 
+
+PPT for Chapter 1
+------------------------------------------------------
+
+- Link：https://pan.baidu.com/s/1Nlu_Tr68FyW_dTi310L7rw 
+- Extraction Code：90kf
+
+
 Teaching video 
 ---------------------------------------------
 
-Part II (Introduction of bio-seperation process)
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-.. raw:: html
-
-
-   <video width="100%" height="100%" controls>
-   <source src="https://outin-0fed40cae50711eaa61200163e1c94a4.oss-cn-shanghai.aliyuncs.com/sv/1c49f60f-17442803d28/1c49f60f-17442803d28.mp4" type="video/mp4" />
-   </video>
-
-
-
-Part III (Aassessment and performance evaluation methods )
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-.. raw:: html
-
-
-   <video width="100%" height="100%" controls>
-   <source src="https://outin-0fed40cae50711eaa61200163e1c94a4.oss-cn-shanghai.aliyuncs.com/sv/482442f9-174428e875b/482442f9-174428e875b.mp4" type="video/mp4" />
-   </video>
-
+.. toctree::
+   :maxdepth: 2
+   
+   Video 1
+   Video 2
+   Video 3
 
 Extracurricular extended learning
 -------------------------------------------------------
 
+.. toctree::
+   :maxdepth: 2
+   
+   Extracurricular Video 1
+   Extracurricular Video 2
+   Extracurricular Video 3
+   Extracurricular Video 4
+   Extracurricular Video 5
 
-Bio-processing overview (Upstream and downstream process)
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-.. raw:: html
-
-
-   <video width="100%" height="100%" controls>
-   <source src="https://outin-0fed40cae50711eaa61200163e1c94a4.oss-cn-shanghai.aliyuncs.com/sv/53729190-1743c8cfb1a/53729190-1743c8cfb1a.mp4" type="video/mp4" />
-   </video>
-
-Down stream processing in Biopharmaceuticals
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-.. raw:: html
-
-
-   <video width="100%" height="100%" controls>
-   <source src="https://outin-0fed40cae50711eaa61200163e1c94a4.oss-cn-shanghai.aliyuncs.com/sv/59a4c4a2-1743c8cfb85/59a4c4a2-1743c8cfb85.mp4" type="video/mp4" />
-   </video>
-
-Downstream Processing Steps
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-.. raw:: html
-
-
-   <video width="100%" height="100%" controls>
-   <source src="https://outin-0fed40cae50711eaa61200163e1c94a4.oss-cn-shanghai.aliyuncs.com/sv/2873a8b2-1743c8cfbab/2873a8b2-1743c8cfbab.mp4" type="video/mp4" />
-   </video>
-
-Bioprocessing Part 1 Fermentation
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-.. raw:: html
-
-
-   <video width="100%" height="100%" controls>
-   <source src="https://outin-0fed40cae50711eaa61200163e1c94a4.oss-cn-shanghai.aliyuncs.com/sv/53595d0d-1743c90bce6/53595d0d-1743c90bce6.mp4" type="video/mp4" />
-   </video>
-
-
-Bioprocessing Part 2 Separation _ Recovery
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-.. raw:: html
-
-
-   <video width="100%" height="100%" controls>
-   <source src="https://outin-0fed40cae50711eaa61200163e1c94a4.oss-cn-shanghai.aliyuncs.com/sv/3e43b9c-1743c8cfb64/3e43b9c-1743c8cfb64.mp4" type="video/mp4" />
-   </video>
 
 Home Work
 -----------------------------------------------------------
 
-
+- ** Please make a small summary about the basic process of biological separation engineering. About 200 words **
 
 
