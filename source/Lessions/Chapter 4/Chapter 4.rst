@@ -12,4 +12,4 @@ Difficulties------------------------
 1. Structure and working principle of homogenizer.2. Structure and working principle of ball mill 
 The basic requirements of this chapter ---------------------------------------------------
 
-1. Master the common cell crushing methods and the cell wall composition of gramnegative cells; 2. Master the principles and common equipment of biological, chemical, mechanical, and other methods
+1. Master the common cell crushing methods and the cell wall composition of gramnegative cells; 2. Master the principles and common equipment of biological, chemical, mechanical, and other methodsTeaching video ---------------------------------------------.. toctree::   :maxdepth: 2      Video 1   Video 2   Video 3
