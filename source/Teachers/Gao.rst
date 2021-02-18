@@ -8,7 +8,7 @@ Dr. Weixia Gao
 
 .. raw:: html
 
-   <p>Menglei Xia, PhD, Research Assistant<br>
+   <p>Weixia Gao, PhD, Research Assistant<br>
    Department of Bioengineering<br>
    College of Biotechnology, Tianjin University of Science and Technology, <br>
    No. 29, St.No.13 Tianjin Econmic-Technological Development Area <br>
