@@ -41,6 +41,7 @@ Introduction of Teachers
    
    Teachers/Xia.rst
    Teachers/Li.rst
+   Teachers/Gao.rst
 
 
 Help Corner
@@ -53,10 +54,17 @@ Help Corner
    Help/2017
 
 
+Special statement
+=========================================================
+
+.. raw:: html
+
+    <p style="text-align:justify; text-justify:inter-ideograph;"> Part of our recommended learning resources are from the course of biological separation of Nanjing University of technology. Considering the potential network problems of international students, we directly provide the course video here only for undergraduate teaching. If there is any copyright problem, we will delete it as soon as possible.</p>
+
 
 Indices and tables
 ===========================
 
-* :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
+
+

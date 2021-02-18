@@ -8,13 +8,13 @@ Dr. Menglei Xia
 
 .. raw:: html
 
-   <center>Menglei Xia, PhD, Lecturer</center>
-   <center>Department of Pharmaceutical Engineering</center>
-   <center>College of Biotechnology, Tianjin University of Science and Technology, </center>
-   <center>No. 29, St.No.13 Tianjin Econmic-Technological Development Area </center>
-   <center>Tianjin 300457, P.R.China </center>
-   <center>Tel.: +86-22-60601256; Fax: +86-22-60602298 </center>
-   <center>E-mail: mlxia@tust.edu.cn</center>
+   <p>Menglei Xia, PhD, Lecturer<br>
+   Department of Pharmaceutical Engineering<br>
+   College of Biotechnology, Tianjin University of Science and Technology, <br>
+   No. 29, St.No.13 Tianjin Econmic-Technological Development Area <br>
+   Tianjin 300457, P.R.China <br>
+   Tel.: +86-22-60601256; Fax: +86-22-60602298 <br>
+   E-mail: mlxia@tust.edu.cn</p>
 
 .. raw:: html
 

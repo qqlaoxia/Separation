@@ -1,6 +1,7 @@
 Dr. Wenchao Li
 =========================
 
+
 .. image:: Li.jpg
    :width: 96 pt
    :height: 129 pt
@@ -8,12 +9,13 @@ Dr. Wenchao Li
 
 .. raw:: html
 
-   <center>Wenchao Li, PhD, Lecturer</center>
-   <center>Department of Bioreaction engineering</center>
-   <center>College of Biotechnology, Tianjin University of Science and Technology, </center>
-   <center>No. 29, St.No.13 Tianjin Econmic-Technological Development Area </center>
-   <center>Tianjin 300457, P.R.China </center>
-   <center>E-mail: liwenchao@tust.edu.cn</center>
+   <p></p>
+   <p>Wenchao Li, PhD, Lecturer<br>
+   Department of Bioreaction engineering<br>
+   College of Biotechnology, Tianjin University of Science and Technology,<br>
+   No. 29, St.No.13 Tianjin Econmic-Technological Development Area <br>
+   Tianjin 300457, P.R.China <br>
+   E-mail: liwenchao@tust.edu.cn</p>
 
 .. raw:: html
 
