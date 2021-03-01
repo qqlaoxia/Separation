@@ -14,10 +14,11 @@ Welcome to Online classes of Downstream Processing of Biological Engineering!
    
 
 
+Course Content
+=========================================================
 .. toctree::
    :maxdepth: 2
    :numbered:
-   :caption: Course Content
    
    Lessions/Chapter 1/Chapter 1
    Lessions/Chapter 2/Chapter 2

@@ -68,6 +68,10 @@ Extracurricular extended learning
 Home Work
 -----------------------------------------------------------
 
-- ** Please make a small summary about the basic process of biological separation engineering. About 200 words **
+- **Question 1：Please make a small summary about the basic process of biological separation engineering. About 200 words**
+- **Question 2: What is the status of bio-separation engineering in the modern biotechnology engineering?**
+- **Question 3: what are the characteristics of raw materials and products in fermentation engineering.** 
+- **Question 4: How to evaluate the separation efficiency**
+
 
 
