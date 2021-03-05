@@ -47,6 +47,7 @@ Teaching video
 .. toctree::
    :maxdepth: 2
    
+   Video 0-1
    Video 0
    Video 1
    Video 2
