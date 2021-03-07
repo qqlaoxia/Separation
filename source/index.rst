@@ -12,6 +12,9 @@ Welcome to Online classes of Downstream Processing of Biological Engineering!
 
    <p style="text-align:justify; text-justify:inter-ideograph;">This course is a comprehensive engineering discipline with strong theoretical and practical foundation. In this course, the biological separation process is divided into four parts: insoluble matter removal, extraction, separation, and purification. Through the study of this course, students can better use various separation technologies to design reasonable extraction and refining process routes according to the characteristics of different products, and can explain various phenomena in theory, improve the ability to analyze and solve problems, and have a comprehensive and detailed understanding of various methods of downstream separation technology of current biological industry</p>.
    
+   <p style="text-align:justify; text-justify:inter-ideograph;">In addition, with the help of powerful AI technology, we have developed a series of learning tools for international students for helping them continuously expand their academic vision and comprehensively improving their engineering ability.</p>
+
+   
 
 
 Course Content
@@ -53,6 +56,15 @@ Help Corner
    :numbered:
    
    Help/2017
+
+Learning tools developed for the students
+=============================================================
+
+.. toctree::
+   :maxdepth: 2
+   :numbered:
+   
+   Tools/index
 
 
 Special statement
