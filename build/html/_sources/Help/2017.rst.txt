@@ -1,9 +1,8 @@
 Timetable of this semester (2020-2021)
 ===========================================================
 
-.. raw:: html
-
-   <a href="生物学院2021-2022-II学期（2019级）课表.html">生物学院2021-2022-II学期（2019级）课表</a>
+.. image:: 生物学院2021-2022-II学期（2019级）课表.png
+   :align: center
 
 
 Syllabus of Downstream Processing of Bioengineering
@@ -44,6 +43,8 @@ Syllabus of Downstream Processing of Bioengineering
 
 .. image:: Instruction/12.png
    :align: center
+
+
 
 
 
